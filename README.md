@@ -8,7 +8,7 @@ The KNIGHT Challenge asks teams to develop models to classify patients with kidn
 
 ## Accessing the Data
 
-A JSON file with each patient's clinical data lives in this repository at `/knight/data/knight.json`. The imaging associated with each of the 300 patients can be downloaded with the `/knight/scripts/get_imaging.py` script.
+A JSON file with each patient's clinical data lives in this repository at `knight/data/knight.json`. The imaging associated with each of the 300 patients can be downloaded with the `knight/scripts/get_imaging.py` script (requires Python 3).
 
 If you wish to make use of the segmentations used for the KiTS21 challenge, you can access those by cloning the [official KiTS21 repository](https://github.com/neheller/kits21).
 
